@@ -20,7 +20,7 @@ namespace c_1111
             x = y;
             y = z;
             Console.Write("\nAfter Swapping : ");
-            Console.Write("\nFirst Number : " +x);
+            Console.Write("\nFirst Number : " +  x);
             Console.Write("\nSecond Number : " +y);
             Console.Read();
 
